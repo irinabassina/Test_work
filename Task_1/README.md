@@ -28,4 +28,4 @@
 
 - Программное решение находится в файле [Program.cs](https://github.com/irinabassina/Test_work/blob/master/Task_1/Program.cs).
 
-- Блок-схема находится в файле [Flowchart.drawio.png](https://github.com/irinabassina/Test_work/blob/master/Task_1/Flowchart.drawio.png) и файле [Flowchart.drawio](https://github.com/irinabassina/Test_work/blob/master/Task_1/Flowchart.drawio)
+- Блок-схема находится в файле [Flowchart.drawio.png](https://github.com/irinabassina/Test_work/blob/master/Task_1/Flowchart.drawio.png).
