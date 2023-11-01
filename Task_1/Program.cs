@@ -10,13 +10,13 @@
 */
 
 
-    //string[] primaryArray = { "Hello", "2", "world", ":-)" };
-    string[] primaryArray = {"1234", "1567", "-2", "computer science"};
-    //string[] primaryArray = { "Russia", "Denmark", "Kazan" };
-    string[] newArray = new string[primaryArray.Length];
-    int count = 0;
+//string[] primaryArray = { "Hello", "2", "world", ":-)" };
+string[] primaryArray = { "1234", "1567", "-2", "computer science" };
+//string[] primaryArray = { "Russia", "Denmark", "Kazan" };
+string[] newArray = new string[primaryArray.Length];
+int count = 0;
 
-    void SecondArray(string[] args)
+void SecondArray(string[] args)
 {
     for (int i = 0; i < primaryArray.Length; i++)
     {
